@@ -1,3 +1,9 @@
+#### Name - KUNAL UDAPURE
+#### Company - Encryptix IT Services and IT Consulting
+#### ID - EXM166135
+#### Domain - DATA SCIENCE INTERN
+#### Duration - 22 June 2024 to 22 July 2024.
+
 ## Project Overview: IMDb Movies Rating Prediction with Regression
 ![IMDB-Most-Anticipated-Indian-Movies-of-2022](https://github.com/user-attachments/assets/a9bcd1bf-1fce-4df6-901c-0767211ee0b4)
 
